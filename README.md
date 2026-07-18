@@ -15,7 +15,7 @@ Everything here was built during the 48-hour case window. AI tools were used thr
 - `payt_price_scraper.py` — for each pay-as-you-throw town, searches the web for the town's official trash page, ranks municipal domains above blogs and news, downloads candidate pages, and extracts every dollar amount appearing near bag-related keywords, saving the surrounding sentence and source URL for each hit. Deliberately human-in-the-loop: it outputs *candidates*, which I then verified by hand against each source page (that verification caught real errors, including an aggregator page describing Worcester's program under a different town's name).
 - `payt_towns.csv` — the 124 target towns, from my panel.
 - `payt_price_candidates.csv` — the raw scraper output (109 candidates across 33 towns).
-- `payt_prices_verified.csv` — the final hand-verified dataset: 29 programs, prices $1.36–$3.64 per 30-gallon-equivalent bag.
+
 
 ### `/basket` — retail price basket
 - `basket_completed_42.csv` — 42 products in matched pairs (wasteful format vs. low-waste format of the same brand), with prices and source URLs captured July 17–18, 2026.
