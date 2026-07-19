@@ -1,4 +1,4 @@
-# ziji-waste-tax-case-study
+# zj-waste-tax-case-study
 # Waste Tax Case Study — Research Toolkit
 
 Supporting code and data for my case study response: *"If Waste Had a Price Tag: How Much Less Would We Actually Throw Away?"* (Scenario 3: a policy accurately measures each person's waste production and taxes them on it).
