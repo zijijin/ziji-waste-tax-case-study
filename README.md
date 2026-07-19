@@ -1,9 +1,7 @@
 # zj-waste-tax-case-study
 # Waste Tax Case Study — Research Toolkit
 
-Supporting code and data for my case study response: *"If Waste Had a Price Tag: How Much Less Would We Actually Throw Away?"* (Scenario 3: a policy accurately measures each person's waste production and taxes them on it).
-
-Everything here was built during the 48-hour case window. AI tools were used throughout and are documented in the GenAI appendix; in short, Claude wrote code with me and ran the analysis, GPT served as an adversarial reviewer, and Perplexity verified external sources.
+"If Waste Had a Price Tag: How Much Less Would We Actually Throw Away?"
 
 ## What's in this repo
 
