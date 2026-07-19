@@ -1,4 +1,4 @@
-# zj-waste-tax-case-study
+# zj-waste-tax
 # Waste Tax Case Study — Research Toolkit
 
 "If Waste Had a Price Tag: How Much Less Would We Actually Throw Away?"
